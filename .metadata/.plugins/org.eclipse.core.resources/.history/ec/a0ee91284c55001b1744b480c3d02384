@@ -46,7 +46,7 @@ public class UploadController {
 	@PostMapping("/uploadFormAction")
 	public void uploadFormPost(MultipartFile[] uploadFile, Model model) {
 		
-		String uploadFolder = "/Users/hyeonjung/Desktop/upload";//123
+		String uploadFolder = "/Users/hyeonjung/Desktop/upload";
 		for(MultipartFile multipartFile : uploadFile) {
 			
 			log.info("------------------------------------");
