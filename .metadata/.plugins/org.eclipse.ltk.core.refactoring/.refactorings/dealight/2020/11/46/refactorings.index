@@ -1,0 +1,14 @@
+1604884781029	Rename type 'StoreController'
+1604894019822	Rename resource 'board'
+1604900732292	Rename resource 'register.jsp'
+1604974113297	Delete element
+1604975191954	Rename type 'StoreEval'
+1604976121579	Rename type 'StoreTag'
+1604978667050	Copy file
+1604978940080	Delete element
+1605066561390	Delete element
+1605152301022	Rename type 'MainStoreVO'
+1605152514071	Rename resource 'MainStoreJoin.xml'
+1605152943376	Rename type 'MainStoreJoinVO'
+1605155838958	Rename type 'MainStoreJoinMapper'
+1605341163501	Move compilation unit

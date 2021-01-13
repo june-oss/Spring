@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+  
+<mapper namespace="com.code.app15.SpringDI15Mapper">
+
+<select id="getTime" resultType="String">
+	select sysdate from dual
+</select>
+
+<insert id="insertMember">
+	insert into user_info (user_id, password, name, email)
+	values(#{userId}, #{password}, #{name}, #{email})
+</insert>
+</mapper>
