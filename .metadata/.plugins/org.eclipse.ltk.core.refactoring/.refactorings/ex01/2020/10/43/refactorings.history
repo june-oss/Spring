@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;error_page.jsp&apos; to &apos;views&apos;&#x0A;- Original project: &apos;ex01&apos;&#x0A;- Destination element: &apos;views&apos;&#x0A;- Original element: &apos;error_page.jsp&apos;" description="Copy file" element1="src/main/webapp/WEB-INF/views/error_page.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1603330193358" target="/book_3rd/src/main/webapp/WEB-INF/views" units="0" version="1.0"/>
-</session>
