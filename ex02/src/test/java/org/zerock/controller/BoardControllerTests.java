@@ -79,7 +79,6 @@ public class BoardControllerTests {
 									.param("content", "수정된 테스트 새글 내용")
 									.param("writer", "user00"))
 									.andReturn().getModelAndView().getViewName();
-		
 		log.info(resultPage);
 	}
 	
